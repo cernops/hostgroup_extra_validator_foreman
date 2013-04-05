@@ -7,7 +7,7 @@ with a regular expression.
 
 Add to bundler.d/Gemfile.local.rb as:
 
-    gem 'hostgroup\_extra\_validator\_foreman', :git => 'https://github.com/cernops/hostgroup\_extra\_validator\_foreman.git'
+    gem 'hostgroup_extra_validator_foreman', :git => 'https://github.com/cernops/hostgroup_extra_validator_foreman.git'
 
 then update & restart Foreman:
 
