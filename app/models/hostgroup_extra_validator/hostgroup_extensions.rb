@@ -1,4 +1,4 @@
-module HostgroupExtensions
+module HostgroupExtraValidator
   module HostgroupExtensions 
     extend ActiveSupport::Concern
     included do
